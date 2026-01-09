@@ -1,5 +1,5 @@
 # 🌟 About Me:
-• Building practical projects in C/C++, JavaScript, and web development, with a growing focus on cybersecurity and AI-based systems.<br>• Beginner to intermediate open-source projects, especially related to web apps, security-focused tools, or problem-solving platforms.<br>• Improving system design, real-world project architecture, and understanding industry-level best practices.<br>• Cybersecurity fundamentals, end-to-end encryption, JavaScript frameworks, and strengthening DSA & problem-solving skills.<br>• Systems-level programming in C/C++, data structures and algorithmic problem-solving, and designing maintainable, real-world projects.
+• Building practical projects in C/C++, JavaScript, and web development, with a growing focus on cybersecurity and AI-based systems.<br>• Beginner to intermediate open-source projects, especially related to web apps, security-focused tools, or problem-solving platforms.<br>• Improving system design, real-world project architecture, and understanding industry-level best practices.<br>• Systems-level programming in C/C++, data structures and algorithmic problem-solving, and designing maintainable, real-world projects.
 
 
 ## 🌐 Socials:
