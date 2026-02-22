@@ -1,5 +1,5 @@
 # About Me:
-• Building practical projects in C/C++, Python, and AIML, with a growing focus AI-based systems.<br>• Improving system design, real-world project architecture, and understanding industry-level best practices.<br>• Systems-level programming in C/C++, data structures and algorithmic problem-solving, and designing maintainable, real-world projects.
+• Building practical projects in C++, Python, and AIML, with a growing focus AI-based systems.<br>• Improving system design, real-world project architecture, and understanding industry-level best practices.<br>• Systems-level programming in C++, data structures and algorithmic problem-solving, and designing maintainable, real-world projects.
 
 
 ## Socials:
